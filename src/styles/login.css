@@ -1,0 +1,11 @@
+.Login{
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    right: 35%;
+    bottom: 20%;
+}
+
+.error-message{
+    color: rgb(215, 81, 32);
+}

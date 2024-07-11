@@ -1,0 +1,13 @@
+/* header */
+.header-container {
+  padding: 20px;
+  background-color: #232323;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+}
+
+.header-container h1{
+    font-size: 25px;
+}

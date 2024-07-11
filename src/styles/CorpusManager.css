@@ -1,0 +1,47 @@
+/* CorpusManager.css */
+.CorpusManager {
+    margin-left: 22rem;
+    margin-right: 1rem;
+    padding: 1rem;
+    color: rgb(240, 240, 240);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.CorpusManager .section {
+    margin-bottom: 2rem;
+}
+
+.CorpusManager h2, .CorpusManager h3 {
+    color: rgb(232, 232, 232);
+}
+
+.CorpusManager button {
+    background-color: #00728c;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+    font-size: 1.1em;
+
+}
+
+.CorpusManager button:hover {
+    background-color: #005c70;
+}
+
+.CorpusManager ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.CorpusManager li {
+    background-color: #333;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0.25rem;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
